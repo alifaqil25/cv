@@ -181,7 +181,15 @@ box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, -16px 0px 1
     {
         width:70%;
     }
-    
+     .title-margin
+    {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .name
+    {
+        color:white;
+    }
 }
 
 /* Contact */
