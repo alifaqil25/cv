@@ -46,6 +46,10 @@
 {
     margin-right: 10px;
 }
+.img-col
+{
+        padding-top:7%;
+    padding-bottom:7%;
 .profile-pic
 {
     display: block;
@@ -54,13 +58,9 @@
     margin: auto 25%;
     padding:0 2%;
 }
-
-@media only screen and (max-width:766px)
-{
-    .profile-pic
-    {
-        width: 50%;
-    }
+@media only screen and (max-width: 991.98px) and (min-width: 766px)
+img.profile-pic.mx-auto {
+    width: 40%;
 }
 
 /* Skill */
