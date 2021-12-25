@@ -59,9 +59,12 @@
     padding:0 2%;
 }
 @media only screen and (max-width: 991.98px) and (min-width: 766px)
-img.profile-pic.mx-auto {
+    {
+        img.profile-pic.mx-auto {
     width: 40%;
 }
+    }
+   
 
 /* Skill */
 
